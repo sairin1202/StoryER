@@ -16,5 +16,4 @@ Run python train.py
 
 ## Pretrained model
 Trained model could be found here!
-[https://drive.google.com/drive/folders/1YEgsd9GF5--HuTquldsnKrV5irtt1MxW?usp=sharing]
-(https://drive.google.com/drive/folders/1YEgsd9GF5--HuTquldsnKrV5irtt1MxW?usp=sharing)
+[https://drive.google.com/drive/folders/1YEgsd9GF5--HuTquldsnKrV5irtt1MxW?usp=sharing](https://drive.google.com/drive/folders/1YEgsd9GF5--HuTquldsnKrV5irtt1MxW?usp=sharing)
