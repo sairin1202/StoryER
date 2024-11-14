@@ -1,7 +1,4 @@
 # StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning
-
-  - Demo
- http://storytelling-lab.com/eval/
  
  ## Overview
 <img src="image/eval.png" width="400">
